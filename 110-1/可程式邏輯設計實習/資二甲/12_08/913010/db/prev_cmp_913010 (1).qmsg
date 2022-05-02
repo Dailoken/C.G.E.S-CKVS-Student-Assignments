@@ -1,0 +1,2 @@
+{ "Error" "EQEXE_UNKNOWN_NON_OPTION_ARGUMENT" "(1) " "Error: Unknown argument \"(1)\". Refer to --help for legal arguments." {  } {  } 0 0 "Unknown argument \"%1!s!\". Refer to --help for legal arguments." 0 0 "" 0 -1}
+{ "Error" "EFLOW_ERROR_COUNT" "Full Compilation 1  0 s " "Error: Quartus II Full Compilation was unsuccessful. 1 error, 0 warnings" {  } {  } 0 0 "Quartus II %1!s! was unsuccessful. %2!d! error%3!s!, %4!d! warning%5!s!" 0 0 "" 0 -1}

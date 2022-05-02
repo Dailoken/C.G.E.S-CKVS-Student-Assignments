@@ -1,0 +1,15 @@
+|913037
+pin_name11 <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+pin_name => inst2.IN0
+pin_name => inst4.IN0
+pin_name => inst5.IN0
+pin_name => inst7.IN1
+pin_name => inst.IN1
+pin_name12 <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+pin_name1 => inst6.IN0
+pin_name1 => inst7.IN0
+pin_name1 => inst.IN0
+pin_name13 <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+pin_name14 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+

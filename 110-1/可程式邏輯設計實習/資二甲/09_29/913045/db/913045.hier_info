@@ -1,0 +1,11 @@
+|913045
+Y0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+a => inst.IN0
+a => inst2.IN0
+a => inst3.IN1
+Y1 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+b => inst2.IN1
+b => inst3.IN0
+Y2 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+

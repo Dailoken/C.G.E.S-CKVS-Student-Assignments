@@ -1,0 +1,26 @@
+|913032
+Y0 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+a => inst2.IN0
+a => inst4.OE
+a => inst.IN0
+a => inst5.IN1
+a => inst6.IN1
+a => inst7.IN1
+a => inst8.IN0
+a => inst9.IN0
+Y1 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+b => inst4.DATAIN
+b => inst.IN1
+b => inst5.IN0
+b => inst6.IN0
+b => inst7.IN0
+b => inst8.IN1
+b => inst9.IN1
+Y2 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+Y3 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+Y4 <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+Y5 <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Y6 <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+Y7 <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+
+
